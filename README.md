@@ -2,10 +2,9 @@
 
 <!-- **unrealplastic/unrealplastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img alt="my stats" scr="https://github-readme-stats.vercel.app/api?username=unrealplastic"/>
+<img align="center" width=50% alt="my stats" src="https://github-readme-stats.vercel.app/api?username=unrealplastic&show_icons=true&title_color=7B46AF&bg_color=00000000&icon_color=FE77AD&text_color=CA96F6&border_color=413251"/>
 
-<img/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=7B46AF&bg_color=00000000&icon_color=FE77AD&text_color=CA96F6&border_radius=20%&border_color=413251)
+<img align="center" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=7B46AF&bg_color=00000000&icon_color=FE77AD&text_color=CA96F6&border_color=413251"/>
 
 
 
